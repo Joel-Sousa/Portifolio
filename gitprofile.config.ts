@@ -44,8 +44,10 @@ const CONFIG = {
         {
           title: 'CPM (Cliente na palma da mão)',
           description:
-            'O projeto CPM (Cliente na palma da mão) pretende entregar uma praticidade na visualização dos' +
-            'relatórios e demonstrar dashboards para melhor acompanhamento para entre clientes e funcionarios.',
+            'O projeto CPM (Cliente na Palma da Mão) pretende oferecer praticidade na geração de relatórios e dashboards, ' + 
+            'permitindo visualizar, monitorar e analisar dados de maneira dinâmica e centralizada. Foi desenvolvido para ' + 
+            'facilitar a tomada de decisões, oferecendo insights detalhados e rápidos sobre o desempenho de operações, atividades ' + 
+            'de negócio ou processos específicos.',
           imageUrl:
             'https://ncdn0.infojobs.com.br/logos/Company_Evaluation/56900.jpg',
           link: 'https://www.sonda.com/pt/inicio',
