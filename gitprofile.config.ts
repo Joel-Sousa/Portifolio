@@ -105,7 +105,10 @@ const CONFIG = {
         {
           title: 'Analise Criminal',
           description:
-             'Sistema de registro de denúncias por agressão física ou verbal e crimes contra a vida.',
+             'A análise criminal é uma ferramenta utilizada para planejamento da segurança pública, visto que ' + 
+            'se vale de métodos científicos para estabelecer um diagnóstico das principais causas do cometimento de ' + 
+            'ilícitos, o que colabora para o desenvolvimento de políticas de enfrentamento aos problemas de segurança ' + 
+            'que cotidianamente afetam a vida da sociedade ',
           imageUrl:
             'https://analisecriminal.ssp.df.gov.br/images/SSP.png',
           link: 'https://analisecriminal.ssp.df.gov.br/Acesso/Login?ReturnUrl=%2F',
