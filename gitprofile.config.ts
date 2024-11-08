@@ -113,6 +113,18 @@ const CONFIG = {
             'https://analisecriminal.ssp.df.gov.br/images/SSP.png',
           link: 'https://analisecriminal.ssp.df.gov.br/Acesso/Login?ReturnUrl=%2F',
         },
+        {
+          title: 'TAO (Talentos e oportunidades)',
+          description:
+             'Pretende-se abordar neste projeto a questão acerca dos talentos existentes sobre as oportunidades de crescimento ' + 
+             'que são oferecidas. Especificamente, será tratado sobre o método de identificação de talentos e oportunidades utilizado ' + 
+             'pela empresa Banco do Brasil. Busca-se avaliar um conjunto de fatores existentes, definidos e estruturados que fazem parte ' + 
+             'deste processo. Será avaliado esse modelo denominado TAO, sistema que orienta os gestores nessa importante tarefa, conhecer ' + 
+             'sua força de trabalho nos pontos de excelência e insuficiência.',
+          imageUrl:
+            'https://media.licdn.com/dms/image/v2/D4D0BAQEc3nZjWOBDsQ/company-logo_200_200/company-logo_200_200/0/1698059824382/bancodobrasil_logo?e=1739404800&v=beta&t=SfLPu2lMA1d2E-SjU-2d-kA8P338jwZeZhHDZwBSPcM',
+            link: 'https://www.bb.com.br/site/',
+        },
       ],
     },
   },
