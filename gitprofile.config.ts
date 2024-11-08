@@ -116,7 +116,7 @@ const CONFIG = {
         {
           title: 'TAO (Talentos e oportunidades)',
           description:
-             'Pretende-se abordar neste projeto a questão acerca dos talentos existentes sobre as oportunidades de crescimento ' + 
+             'Neste projeto foi abordado a questão acerca dos talentos existentes sobre as oportunidades de crescimento ' + 
              'que são oferecidas. Especificamente, será tratado sobre o método de identificação de talentos e oportunidades utilizado ' + 
              'pela empresa Banco do Brasil. Busca-se avaliar um conjunto de fatores existentes, definidos e estruturados que fazem parte ' + 
              'deste processo. Será avaliado esse modelo denominado TAO, sistema que orienta os gestores nessa importante tarefa, conhecer ' + 
