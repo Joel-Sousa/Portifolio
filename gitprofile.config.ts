@@ -216,7 +216,7 @@ const CONFIG = {
       companyLink: 'https://focuscondominios.com.br/',
     },
     {
-      company: 'Secretaria de Segurança Pública',
+      company: 'Secretaria de Segurança Pública do Distrito Federal',
       position: 'Desenvolvedor FullStack',
       from: 'Junho 2020',
       to: 'Outubro 2020 | 5 Meses',
