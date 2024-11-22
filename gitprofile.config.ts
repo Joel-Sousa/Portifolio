@@ -167,6 +167,7 @@ const CONFIG = {
     'JavaScript',
     'Filament',
     'PHPUnit',
+    'Vue.js',
     'Node.js',
     'MySQL',
     'SQLServer',
