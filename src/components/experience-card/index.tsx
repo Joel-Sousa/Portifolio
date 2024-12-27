@@ -18,13 +18,13 @@ const ListItem = ({
       className="absolute w-2 h-2 bg-base-300 rounded-full border border-base-300 mt-1.5"
       style={{ left: '-4.5px' }}
     ></div>
-    <div className="my-0.5 text-xs">{time}</div>
-    <h3 className="font-semibold">{position}</h3>
-    <div className="mb-4 font-normal">
+    <div className="font-semibold">
       <a href={companyLink} target="_blank" rel="noreferrer">
         {company}
       </a>
     </div>
+    <div className="my-0.5 text-xs">{time}</div>
+    <h3 className="my-0.5 text-xs">{position}</h3>
   </li>
 );
 
@@ -65,7 +65,7 @@ const ExperienceCard = ({
             {loading ? (
               skeleton({ widthCls: 'w-32', heightCls: 'h-8' })
             ) : (
-              <span className="text-base-content opacity-70">Experience</span>
+              <span className="text-base-content opacity-70">Experiencia</span>
             )}
           </h5>
         </div>

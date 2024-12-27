@@ -38,7 +38,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Projetos',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -380,9 +380,9 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Projeção',
-      degree: 'Sistemas de Informação',
-      from: '2017',
+      institution: 'UniProjeção',
+      degree: 'Sistemas de Informação - Graduação',
+      from: 'Completo | 2017',
       to: '2021',
     },
   ],

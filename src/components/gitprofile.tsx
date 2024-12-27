@@ -218,6 +218,12 @@ const GitProfile = ({ config }: { config: Config }) => {
                       github={sanitizedConfig.github}
                       social={sanitizedConfig.social}
                     />
+                    {sanitizedConfig.educations.length !== 0 && (
+                      <EducationCard
+                        loading={loading}
+                        educations={sanitizedConfig.educations}
+                      />
+                    )}
                     {sanitizedConfig.skills.length !== 0 && (
                       <SkillCard
                         loading={loading}
@@ -234,12 +240,6 @@ const GitProfile = ({ config }: { config: Config }) => {
                       <CertificationCard
                         loading={loading}
                         certifications={sanitizedConfig.certifications}
-                      />
-                    )}
-                    {sanitizedConfig.educations.length !== 0 && (
-                      <EducationCard
-                        loading={loading}
-                        educations={sanitizedConfig.educations}
                       />
                     )}
                   </div>
@@ -264,15 +264,15 @@ const GitProfile = ({ config }: { config: Config }) => {
                     )}
                     {sanitizedConfig.projects.external.projects.length !==
                       0 && (
-                      <ExternalProjectCard
-                        loading={loading}
-                        header={sanitizedConfig.projects.external.header}
-                        externalProjects={
-                          sanitizedConfig.projects.external.projects
-                        }
-                        googleAnalyticId={sanitizedConfig.googleAnalytics.id}
-                      />
-                    )}
+                        <ExternalProjectCard
+                          loading={loading}
+                          header={sanitizedConfig.projects.external.header}
+                          externalProjects={
+                            sanitizedConfig.projects.external.projects
+                          }
+                          googleAnalyticId={sanitizedConfig.googleAnalytics.id}
+                        />
+                      )}
                     {sanitizedConfig.blog.display && (
                       <BlogCard
                         loading={loading}
