@@ -165,6 +165,7 @@ const CONFIG = {
     'React.js',
     'Typescript',
     'JavaScript',
+    'Lumen',
     'Filament',
     'PHPUnit',
     'Vue.js',
