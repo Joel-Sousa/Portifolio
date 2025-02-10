@@ -234,8 +234,8 @@ const CONFIG = {
     {
       company: 'Plan Automação',
       position: 'Suporte Técnico - Estágio',
-      from: 'Setembro 2019',
-      to: 'Junho 2020 | 1 ano e 2 meses',
+      from: 'Março 2018',
+      to: 'Abril 2019 | 1 ano e 2 meses',
       companyLink: 'https://planautomacao.com.br/',
     },
   ],
