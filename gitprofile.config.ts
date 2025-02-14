@@ -122,7 +122,7 @@ const CONFIG = {
              'deste processo. Será avaliado esse modelo denominado TAO, sistema que orienta os gestores nessa importante tarefa, conhecer ' + 
              'sua força de trabalho nos pontos de excelência e insuficiência.',
           imageUrl:
-            'https://media.licdn.com/dms/image/v2/D4D0BAQEc3nZjWOBDsQ/company-logo_200_200/company-logo_200_200/0/1698059824382/bancodobrasil_logo?e=1739404800&v=beta&t=SfLPu2lMA1d2E-SjU-2d-kA8P338jwZeZhHDZwBSPcM',
+            'https://t.ctcdn.com.br/uty-qsFeDcV-IrDWVSpY3HmGx_g=/i620291.jpeg',
             link: 'https://www.bb.com.br/site/',
         },
       ],
@@ -176,6 +176,8 @@ const CONFIG = {
     'Docker',
     'Html',
     'CSS',
+    'Bootstrap',
+    'TailwindCSS',
     'RabbitMQ',
     'Vue.js',
     'Node.js',
@@ -228,7 +230,7 @@ const CONFIG = {
       company: 'Banco do Brasil',
       position: 'Desenvolvedor AngularJS - Estágio',
       from: 'Setembro 2019',
-      to: 'Junho 2020 | 10 meses',
+      to: 'Setembro 2020 | 1 ano',
       companyLink: 'https://www.bb.com.br/site/',
     },
     {
