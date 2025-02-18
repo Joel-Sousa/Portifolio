@@ -201,6 +201,7 @@ const CONFIG = {
     'Spring Boot',
     'Scrum',
     'Kanban',
+    'Jira',
     'Arquitetura MVC',
     'Padrões de projeto',
   ],
