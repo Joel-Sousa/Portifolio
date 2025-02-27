@@ -172,7 +172,7 @@ const CONFIG = {
     'GitLab',
     'PHPUnit',
     'Lumen',
-    'Filament',
+    'Filament PHP',
     'Docker',
     'Html',
     'CSS',
