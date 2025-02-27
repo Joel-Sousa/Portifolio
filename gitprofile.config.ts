@@ -206,22 +206,29 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Freelancer',
+      position: 'Desenvolvedor Fullstack',
+      from: 'Novembro 2024',
+      to: '(Atualmente)',
+      companyLink: '',
+    },
+    {
       company: 'Sonda IT',
-      position: 'Desenvolvedor Full Stack',
+      position: 'Desenvolvedor Fullstack',
       from: 'Dezembro 2021',
       to: 'Outubro 2024 | 2 anos e 10 meses',
       companyLink: 'https://www.sonda.com/pt',
     },
     {
       company: 'Focus Gestão Condominial',
-      position: 'Desenvolvedor Full Stack',
+      position: 'Desenvolvedor Fullstack',
       from: 'Janeiro 2021',
       to: 'Março 2021 | 3 Meses',
       companyLink: 'https://focuscondominios.com.br/',
     },
     {
       company: 'Secretaria de Segurança Pública do Distrito Federal',
-      position: 'Desenvolvedor Full Stack',
+      position: 'Desenvolvedor Fullstack',
       from: 'Junho 2020',
       to: 'Outubro 2020 | 5 Meses',
       companyLink: 'https://www.ssp.df.gov.br/',
