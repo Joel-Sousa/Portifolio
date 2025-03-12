@@ -390,8 +390,14 @@ const CONFIG = {
   ],
   educations: [
     {
+      institution: 'PUC Minas',
+      degree: 'Pós - Graduação | Engenharia de Software',
+      from: 'Cursando | 2025',
+      to: '2026',
+    },
+    {
       institution: 'UniProjeção',
-      degree: 'Sistemas de Informação - Graduação',
+      degree: ' Graduação | Sistemas de Informação',
       from: 'Completo | 2017',
       to: '2021',
     },
