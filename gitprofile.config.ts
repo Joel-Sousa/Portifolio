@@ -3,6 +3,7 @@
 const CONFIG = {
   github: {
     username: 'joel-sousa', // Your GitHub org/user name. (This is the only required config)
+    // imageUrl: 'https://github.com/ffsdf',
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -173,6 +174,7 @@ const CONFIG = {
     'GitLab',
     'PHPUnit',
     'Lumen',
+    'Codeigniter',
     'AWS',
     'Filament PHP',
     'Docker',
