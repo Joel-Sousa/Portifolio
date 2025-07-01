@@ -1,5 +1,7 @@
+// import { FALLBACK_IMAGE } from '../../constants';
 import { Profile } from '../../interfaces/profile';
 import { skeleton } from '../../utils';
+import LazyImage from '../lazy-image';
 
 interface AvatarCardProps {
   profile: Profile | null;
@@ -44,7 +46,18 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
                   : ''
               }`}
             >
-                <img src='../../../public/my.JPG'/>
+              {
+                <LazyImage
+                  // src={profile.avatar ? profile.avatar : FALLBACK_IMAGE}
+                  src={'https://media.licdn.com/dms/image/v2/D4D03AQGoX7MJpKmghw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698758742396?e=1756944000&v=beta&t=rb8M0kySdnPNYYI2TWnR0IrMTUT4T6G_3nHIHmPTwEg'}
+                  alt={'tst'}
+                  placeholder={skeleton({
+                    widthCls: 'w-full',
+                    heightCls: 'h-full',
+                    shape: '',
+                  })}
+                />
+              }
             </div>
           </div>
         )}
