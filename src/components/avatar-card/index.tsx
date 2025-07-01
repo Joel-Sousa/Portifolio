@@ -48,7 +48,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
             >
               {
                 <LazyImage
-                  src={'../../../public/my.JPG'}
+                  src={'../../../public/my.JPG' ? '../../../public/my.JPG' : FALLBACK_IMAGE}
                   alt={'tst'}
                   placeholder={skeleton({
                     widthCls: 'w-full',
