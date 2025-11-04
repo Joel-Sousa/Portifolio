@@ -49,7 +49,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
               {
                 <LazyImage
                   // src={profile.avatar ? profile.avatar : FALLBACK_IMAGE}
-                  src={'https://media.licdn.com/dms/image/v2/D4D03AQGoX7MJpKmghw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698758742396?e=1756944000&v=beta&t=rb8M0kySdnPNYYI2TWnR0IrMTUT4T6G_3nHIHmPTwEg'}
+                  src={'https://media.licdn.com/dms/image/v2/D4D03AQGoX7MJpKmghw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698758742396?e=1763596800&v=beta&t=6MKrGJBOzzwnyt6tjGuN8Mr6Zm23PVphV-sSp6gyzZ0'}
                   alt={'tst'}
                   placeholder={skeleton({
                     widthCls: 'w-full',

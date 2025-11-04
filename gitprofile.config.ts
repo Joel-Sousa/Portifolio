@@ -3,7 +3,7 @@
 const CONFIG = {
   github: {
     username: 'joel-sousa', // Your GitHub org/user name. (This is the only required config)
-    // imageUrl: 'https://github.com/ffsdf',
+    // imageUrl: 'https://avatars.githubusercontent.com/u/49372023?v=4',
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
