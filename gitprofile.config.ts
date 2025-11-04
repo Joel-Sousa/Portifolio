@@ -210,10 +210,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Montreal IT',
+      position: 'Desenvolvedor Fullstack',
+      from: 'Agosto 2025',
+      to: '(Atualmente)',
+      companyLink: 'https://montreal.com.br/',
+    },
+    {
       company: 'Freelancer',
       position: 'Desenvolvedor Fullstack',
       from: 'Novembro 2024',
-      to: '(Atualmente)',
+      to: 'Julho 2025 | 09 meses ',
       companyLink: '',
     },
     {
@@ -253,6 +260,12 @@ const CONFIG = {
     },
   ],
   certifications: [
+    {
+      name: 'AWS, na prática!',
+      // body: 'Lorem ipsum dolor sit amet',
+      year: 'Julho 2025',
+      link: 'https://www.udemy.com/certificate/UC-31010024-bbc2-451f-87e5-b39341b37317/',
+    },
     {
       name: 'FilamentPHP Tenant Driven / V3',
       // body: 'Lorem ipsum dolor sit amet',
