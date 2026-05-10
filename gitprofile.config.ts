@@ -4,6 +4,7 @@ const CONFIG = {
   github: {
     username: 'joel-sousa', // Your GitHub org/user name. (This is the only required config)
     // imageUrl: 'https://avatars.githubusercontent.com/u/49372023?v=4',
+    // imageUrl: 'https://github.com/joel-sousa',
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -168,6 +169,9 @@ const CONFIG = {
     'JavaScript',
     'MySQL',
     'SQLServer',
+    'Oracle dababase',
+    'MongoDB',
+    'SQLite',
     'Git',
     'Git Flow',
     'GitHub',
@@ -185,7 +189,6 @@ const CONFIG = {
     'RabbitMQ',
     'Vue.js',
     'Node.js',
-    'MongoDB',
     'CI/CD',
     'Redis',
     'Angular.js',
@@ -409,7 +412,7 @@ const CONFIG = {
     {
       institution: 'PUC Minas',
       degree: 'Pós - Graduação | Engenharia de Software',
-      from: 'Cursando | 2025',
+      from: 'Completo | 2025',
       to: '2026',
     },
     {
